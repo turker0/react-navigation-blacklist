@@ -1,5 +1,2 @@
-export default {
-  multiply(a: number, b: number) {
-    return Promise.resolve(a * b);
-  },
-};
+export { useTabBarBlacklist } from './hooks/useTabBarBlacklist';
+export type { useTabBatBlacklistProps } from './types';
