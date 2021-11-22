@@ -1,6 +1,6 @@
 # react-navigation-blacklist
 
-Screen based tabBar blacklist for react-navigation.
+Screen based tabBar blacklist for react-navigation to toggle top/bottom tabs.
 
 ## Installation
 
