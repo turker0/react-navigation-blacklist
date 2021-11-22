@@ -44,6 +44,7 @@
   },
   "homepage": "https://github.com/oguzturker8/react-navigation-blacklist#readme",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
